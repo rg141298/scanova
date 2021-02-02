@@ -9,7 +9,7 @@
       <v-card-actions class="cardText">
         <div>
           Some quick example text to build on the card<br />
-          &nbsp;&nbsp;&nbsp;&nbsp; title and make up the bulk of the card's
+          title and make up the bulk of the card's
           content.
         </div>
       </v-card-actions>
