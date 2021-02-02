@@ -1,20 +1,16 @@
 <template>
   <div id="app">
-    <img v-if="false" alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld v-if="false" msg="Welcome to Your Vue.js App"/>
-    <Card/>
+    <Form/>
+
   </div>
 </template>
-
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import Card from './components/Card.vue'
+import Form from './components/Form.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
-    Card
+    Form
   }
 }
 </script>
